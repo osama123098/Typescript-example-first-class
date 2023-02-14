@@ -1,6 +1,2 @@
-let user = {
-    name:'osama',
-    age: 23
-}
-console.log('Temp')
-console.log(user)
+let temp = 'Osama'
+console.log('Hello my dear '+temp)

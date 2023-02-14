@@ -1,6 +1,2 @@
-var user = {
-    name: 'osama',
-    age: 23
-};
-console.log('Temp');
-console.log(user);
+var temp = 'Osama';
+console.log('Hello my dear' + temp);
